@@ -1,0 +1,15 @@
+C:\Users\1321907\Documents\ATP\Lista4\bin\Debug\net8.0\Lista4.exe
+C:\Users\1321907\Documents\ATP\Lista4\bin\Debug\net8.0\Lista4.deps.json
+C:\Users\1321907\Documents\ATP\Lista4\bin\Debug\net8.0\Lista4.runtimeconfig.json
+C:\Users\1321907\Documents\ATP\Lista4\bin\Debug\net8.0\Lista4.dll
+C:\Users\1321907\Documents\ATP\Lista4\bin\Debug\net8.0\Lista4.pdb
+C:\Users\1321907\Documents\ATP\Lista4\obj\Debug\net8.0\Lista4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1321907\Documents\ATP\Lista4\obj\Debug\net8.0\Lista4.AssemblyInfoInputs.cache
+C:\Users\1321907\Documents\ATP\Lista4\obj\Debug\net8.0\Lista4.AssemblyInfo.cs
+C:\Users\1321907\Documents\ATP\Lista4\obj\Debug\net8.0\Lista4.csproj.CoreCompileInputs.cache
+C:\Users\1321907\Documents\ATP\Lista4\obj\Debug\net8.0\Lista4.sourcelink.json
+C:\Users\1321907\Documents\ATP\Lista4\obj\Debug\net8.0\Lista4.dll
+C:\Users\1321907\Documents\ATP\Lista4\obj\Debug\net8.0\refint\Lista4.dll
+C:\Users\1321907\Documents\ATP\Lista4\obj\Debug\net8.0\Lista4.pdb
+C:\Users\1321907\Documents\ATP\Lista4\obj\Debug\net8.0\Lista4.genruntimeconfig.cache
+C:\Users\1321907\Documents\ATP\Lista4\obj\Debug\net8.0\ref\Lista4.dll

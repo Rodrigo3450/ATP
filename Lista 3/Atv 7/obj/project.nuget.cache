@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qW+0gCh0yfKjr3q17P9NtPygxwMpVCa/yXoY+CkWk05fS7TwATfiER8ZfLsd7uImzaPkU/6HJk28W6TZEiCocQ==",
+  "dgSpecHash": "Wm9d1teyeG72JfAHDh9Qc4sZLFGdBrkwOHiW8rRZuI+zoY3/XZgncw2Kf75MG52vtbV0GKe86TeDg3ajxB00bQ==",
   "success": true,
-  "projectFilePath": "/home/runner/Lista-3-Atv-7/main.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\1321907\\Documents\\ATP\\Lista 3\\Atv 7\\main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1321907\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\1321907\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\1321907\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\1321907\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
