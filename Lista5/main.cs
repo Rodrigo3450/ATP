@@ -1,5 +1,5 @@
 // Nome: Rodrigo Sérgio Alves da Silva
-// Lista 5 Atividade 1
+// Lista 5 Atividade 2
 
 using System;
 
@@ -7,41 +7,39 @@ class Program
 {
     static void Main()
     {
-        int[] N = new int[20];
-        LerVetor(N);
-
-        int posicaoMenorElemento = EncontrarPosicaoMenorElemento(N);
-        ExibirMenorElementoEnaPosicao(N, posicaoMenorElemento);
+        int[] notas = new int[10];
+        PreencherNotas(notas);
+        CalculaMediaEContaAcimaDaMedia(notas);
     }
-    //Função para ler os elementos do vetor
-    static void LerVetor(int[] vetor)
+    // Procedimento para preencher o vetor com as notas
+    static void PreencherNotas(int[] vetor)
     {
         for (int i = 0; i < vetor.Length; i++)
         {
-            Console.Write("Digite o elemento N[" + i + "]");
+            Console.Write("Digite a nota do aluno " + (i + 1) + ": ");
             vetor[i] = int.Parse(Console.ReadLine());
         }
     }
-    // Função para encontrar a posição do menor elemento do vetor
-    static int EncontrarPosicaoMenorElemento(int[] vetor)
+    // Procedimento para calcular a média e contar os alunos acima da média.
+    static void CalculaMediaEContaAcimaDaMedia(int[] vetor)
     {
-        int menorElemento = vetor[0];
-        int posicaoMenorElemento = 0;
+        int soma = 0;
+        int acimaDaMedia = 0;
+        double media;
 
-        for (int i = 1; i < vetor.Length; i++)
+        for (int i = 0; i < vetor.Length; i++)
         {
-            if (vetor[i] < menorElemento)
+            soma += vetor[i];
+        }
+        media = (double)soma / vetor.Length;
+        for (int i = 0; i < vetor.Length; i++)
+        {
+            if (vetor[i] > media)
             {
-                menorElemento = vetor[i];
-                posicaoMenorElemento = i;
+                acimaDaMedia++;
             }
         }
-        return posicaoMenorElemento;
-    }
-    // Função para exibir o menor elemento e sua posição no vetor.
-    static void ExibirMenorElementoEnaPosicao(int[] vetor, int posicao)
-    {
-        int menorElemento = vetor[posicao];
-        Console.WriteLine("O menor elemento de N é " + menorElemento + " e sua posição dentro do vetor é: " + posicao);
+        Console.WriteLine("A média da turma e: " + media);
+        Console.WriteLine("Alunos com notas acima da média: " + acimaDaMedia);
     }
 }
