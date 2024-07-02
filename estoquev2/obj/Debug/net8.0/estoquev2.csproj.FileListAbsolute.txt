@@ -1,0 +1,14 @@
+C:\Users\1321907\Downloads\estoquev2\bin\Debug\net8.0\estoquev2.exe
+C:\Users\1321907\Downloads\estoquev2\bin\Debug\net8.0\estoquev2.deps.json
+C:\Users\1321907\Downloads\estoquev2\bin\Debug\net8.0\estoquev2.runtimeconfig.json
+C:\Users\1321907\Downloads\estoquev2\bin\Debug\net8.0\estoquev2.dll
+C:\Users\1321907\Downloads\estoquev2\bin\Debug\net8.0\estoquev2.pdb
+C:\Users\1321907\Downloads\estoquev2\obj\Debug\net8.0\estoquev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1321907\Downloads\estoquev2\obj\Debug\net8.0\estoquev2.AssemblyInfoInputs.cache
+C:\Users\1321907\Downloads\estoquev2\obj\Debug\net8.0\estoquev2.AssemblyInfo.cs
+C:\Users\1321907\Downloads\estoquev2\obj\Debug\net8.0\estoquev2.csproj.CoreCompileInputs.cache
+C:\Users\1321907\Downloads\estoquev2\obj\Debug\net8.0\estoquev2.dll
+C:\Users\1321907\Downloads\estoquev2\obj\Debug\net8.0\refint\estoquev2.dll
+C:\Users\1321907\Downloads\estoquev2\obj\Debug\net8.0\estoquev2.pdb
+C:\Users\1321907\Downloads\estoquev2\obj\Debug\net8.0\estoquev2.genruntimeconfig.cache
+C:\Users\1321907\Downloads\estoquev2\obj\Debug\net8.0\ref\estoquev2.dll
